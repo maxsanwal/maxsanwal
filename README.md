@@ -5,3 +5,7 @@
 
 - 💻 Computer engineer
 - ✨ Interested in Math and Data and Data and Math   
+
+# Technologies
+
+![](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
