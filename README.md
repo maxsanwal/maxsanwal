@@ -5,3 +5,10 @@
 
 - 💻 Computer engineer
 - ✨ Interested in Math and Data and Data and Math   
+- 📚 Reader and Writer too
+
+<details open>
+<summary># Technologies</summary>
+<br>
+https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif
+</details>
