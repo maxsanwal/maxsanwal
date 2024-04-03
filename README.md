@@ -3,5 +3,5 @@
 
 # About me
 
-- 💻 Computer engineer
+- 💻 Data Scientist
 - ✨ Interested in Math and Data
